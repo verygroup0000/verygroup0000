@@ -1,2 +1,6 @@
 language: java
 jdk: oraclejdk8
+
+notifications:
+  email: false
+  slack: 'verygroup0000:FJBA9ASaeaJGUb0XwySySPRW#travis-ci'
